@@ -1,7 +1,7 @@
 streamlit==1.29.0
 numpy==1.24.3
-torch==2.3.0
-torchvision==0.18.0 
+torch==1.13.1 # Perubahan di sini
+torchvision==0.14.1 # Perubahan di sini
 matplotlib==3.7.1
 plotly==5.15.0
 pandas==2.0.3
